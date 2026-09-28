@@ -1,6 +1,6 @@
 # Terraform Plan Diff Viewer
 
-**Live demo:** https://babug01.github.io/terraform-plan-diff-viewer/
+**Live demo:** https://terraform-plan-diff-viewer.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/terraform-plan-diff-viewer/)
 
 Paste `terraform show -json <planfile>` output and get a readable, color-coded breakdown of exactly
 what a plan will do — a summary badge row (create/update/destroy/replace counts) followed by
